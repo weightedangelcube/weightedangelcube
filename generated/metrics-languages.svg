@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.61mb of code in 199 edited files across 45 commits</small>
+                <small>estimation from 2.61mb of code in 199 edited files across 46 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.09599607577036" height="8" fill="#0040cd"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.09599607577036" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="307.09599607577036" y="0" width="85.20623750555491" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="392.30223358132525" y="0" width="45.732291456748385" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="438.03452503807364" y="0" width="15.536545694250455" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="392.30223358132525" y="0" width="45.732291456748385" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="438.03452503807364" y="0" width="15.536545694250455" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="453.57107073232413" y="0" width="4.171095715773653" height="8" fill="#b07219"/>
                     <rect mask="url(#languages-bar)" x="457.74216644809775" y="0" width="1.8229648390591424" height="8" fill="#ff5a03"/>
                     <rect mask="url(#languages-bar)" x="459.56513128715693" y="0" width="0.43486871284310347" height="8" fill="#c6538c"/>
@@ -35,7 +35,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#0040cd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 q
                             </div>
@@ -46,7 +46,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 CSS
                             </div>
@@ -92,7 +92,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 HTML
                             </div>
