@@ -1,4 +1,11 @@
 # hi 👋
 *I'm Angel, welcome to my profile :)*
 
-![](/github-metrics.svg)
+## languages
+![](/generated/metrics-languages.svg)
+
+## music
+![](/generated/metrics-music.svg)
+
+## games
+![](/generated/metrics-steam.svg)

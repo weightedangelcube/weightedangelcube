@@ -1,0 +1,26 @@
+name: metrics-languages
+on:
+  # Schedule daily updates
+  schedule:
+    - cron: "*/15 * * * *"
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: generated/metrics-music.svg
+          token: NOT_NEEDED
+          base: ""
+
+          plugin_music: yes
+          plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
+          plugin_music_provider: lastfm
+          plugin_music_user: angelcube__
+          plugin_music_limit: 4
+          plugin_music_mode: recent

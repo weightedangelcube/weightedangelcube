@@ -1,0 +1,27 @@
+name: metrics-languages
+on:
+  # Schedule daily updates
+  schedule:
+    - cron: "0 0 * * *"
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: generated/metrics-languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
