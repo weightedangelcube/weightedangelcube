@@ -1,4 +1,4 @@
-name: metrics-languages
+name: metrics-steam
 on:
   # Schedule daily updates
   schedule:
