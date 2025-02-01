@@ -37,7 +37,7 @@ jobs:
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 3
           plugin_steam_sections: recently-played
-          plugin_steam_user: 76561199245582776
+          plugin_steam_user: "76561199245582776"
 
           plugin_music: yes
           plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
