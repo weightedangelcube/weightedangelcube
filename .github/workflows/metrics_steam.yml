@@ -1,4 +1,4 @@
-name: metrics-steam
+name: metrics_steam
 on:
   # Schedule daily updates
   schedule:

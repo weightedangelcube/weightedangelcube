@@ -1,4 +1,4 @@
-name: metrics-music
+name: metrics_music
 on:
   # Schedule daily updates
   schedule:

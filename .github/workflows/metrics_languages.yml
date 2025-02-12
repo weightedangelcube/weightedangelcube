@@ -1,4 +1,4 @@
-name: metrics-languages
+name: metrics_languages
 on:
   # Schedule daily updates
   schedule:
