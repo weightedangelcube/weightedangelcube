@@ -5,7 +5,7 @@
 ![](https://raw.githubusercontent.com/weightedangelcube/weightedangelcube/generated/metrics_languages.svg)
 
 ## music
-![](https://raw.githubusercontent.com/weightedangelcube/weightedangelcube/generated/metrics_languages.svg)
+![](https://raw.githubusercontent.com/weightedangelcube/weightedangelcube/generated/metrics_music.svg)
 
 ## games
 ![](https://raw.githubusercontent.com/weightedangelcube/weightedangelcube/generated/metrics_steam.svg)
