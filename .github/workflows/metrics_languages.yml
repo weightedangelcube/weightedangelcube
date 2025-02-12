@@ -20,6 +20,18 @@ jobs:
           output_action: commit
           committer_branch: generated
           committer_message: "chore: update language metrics"
+          extras_css: |
+            h1, h2, h3 {
+                color: #b4befe;
+            }
+
+            .field.language.details small {
+                color: #cdd6f4;
+            }
+
+            pre {
+                background: #1e1e2e;
+            }
 
           plugin_languages: yes
           # plugin_languages_indepth: broken
