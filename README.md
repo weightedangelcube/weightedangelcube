@@ -2,10 +2,10 @@
 *I'm Angel, welcome to my profile :)*
 
 ## languages
-![](/generated/metrics-languages.svg)
+![](https://raw.githubusercontent.com/weightedangelcube/weightedangelcube/generated/metrics_languages.svg)
 
 ## music
-![](/generated/metrics-music.svg)
+![](https://raw.githubusercontent.com/weightedangelcube/weightedangelcube/generated/metrics_languages.svg)
 
 ## games
-![](/generated/metrics-steam.svg)
+![](https://raw.githubusercontent.com/weightedangelcube/weightedangelcube/generated/metrics_steam.svg)

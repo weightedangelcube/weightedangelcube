@@ -14,9 +14,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@master
         with:
-          filename: generated/metrics-languages.svg
+          filename: metrics_languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          output_action: commit
+          committer_branch: generated
+          committer_message: "chore: update language metrics"
 
           plugin_languages: yes
           # plugin_languages_indepth: broken
