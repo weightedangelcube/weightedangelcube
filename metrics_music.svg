@@ -26,13 +26,6 @@
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Thank Goodness You're Here! OST</div>
-                                    <div class="artist">Round Slow</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Thank Goodness You're Here! OST</div>
                                     <div class="artist">Round Fast</div>
                                 </div>
                             </div>
@@ -48,6 +41,13 @@
                                 <div class="infos">
                                     <div class="name">Thank Goodness You're Here! OST</div>
                                     <div class="artist">Rain Redux</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Thank Goodness You're Here! OST</div>
+                                    <div class="artist">Rain Or Shine</div>
                                 </div>
                             </div>
                         </div>
