@@ -1,0 +1,28 @@
+name: metrics_wakatime
+on:
+  # Schedule daily updates
+  schedule:
+    - cron: "0 0 * * *"
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  push: { branches: ["main"] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          filename: metrics_wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          output_action: commit
+          committer_branch: generated
+          committer_message: "chore: update wakatime metrics"
+
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_url: "https://hackatime.hackclub.com/"
+          plugin_wakatime_user: 
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
