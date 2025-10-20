@@ -30,3 +30,4 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_other: false
           commits_authoring: angel@angelcube.dev, 144711471+weightedangelcube@users.noreply.github.com
+          repositories_skipped: weightedangelcube/passion-scores
