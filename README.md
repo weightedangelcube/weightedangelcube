@@ -1,12 +1,12 @@
-<h3 align="center">angelcube</h2>
-<hr>
-<p align="center">unprofessional software developer</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/weightedangelcube/weightedangelcube/generated/metrics_languages.svg" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/weightedangelcube/weightedangelcube/generated/metrics_music.svg" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/weightedangelcube/weightedangelcube/generated/metrics_steam.svg" />
-</p>
+### hi, I'm angelcube.
+
+cool things I've made: 
+
+- [slime origin](https://github.com/weightedangelcube/slime-origin): based on Jack Sibley's mod of the same name, a version for Minecraft 1.21.1
+- [pomme](https://github.com/weightedangelcube/pomme-page): a rewrite of kikiklang's pomme-page using Astro, with a Todoist integration
+
+what I'm working on:
+- [cc](https://github.com/weightedangelcube/cc): the collab ✨
+- everest-fmod2: adding FMOD2 to Everest, for native ARM support
+
+<sub>profile picture by @Nlepubo via Picrew.</sub>
