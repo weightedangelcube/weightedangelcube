@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="439" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="424" class="">
     <defs>
         <style/>
     </defs>
@@ -38,7 +38,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        23 hours played
+                                        27 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -55,32 +55,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            15 / 127 achievements unlocked
+                                            17 / 127 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABQQDAAYH/8QAKxAAAgEDAgQEBwEAAAAAAAAAAQIDBAURACEGEjFRE0FhcRUiQlSRkqEU/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAE/8QAHBEAAgMBAAMAAAAAAAAAAAAAAAECERJBIjFR/9oADAMBAAIRAxEAPwD3GaV5KqozWTRlJSnIrhQF23Ht1OhviNb91N+2ob9O8/EVRbqQqKl2Lc0h5Vx5AHByTo9rPdYauKMxqryEhZPGHJkDOCeufTG+s9mpR+j3xGt+6m/bVVruFW1xp1eokZWcAgnII11e6Wi4UMazzSwzMzBQschDE+mR5dT2G+qeE5ZZrzTlqhpVRgGP0sSfp9B38/bRtXno48dcOcaUck9dNPTHlqYJWZSO3bSFnvtJdbQVr5BFUL8rgnDcw3BHY5/vpq+6W+ra41DJTyMrOSCBkEaAr+E3qZGlWhkWU9flIB/GqiTTVM2tssVxnapvNTCGQKDCWGWzuBygnC9wNyQc7DGt7XFS0nFEMVGWMc7CVF5GXw8Hcbjpk7fjRtNwYI28Sa3vJJ7Hb+6asNg/xXSCaG3mDDDmflI26+eiMFG2ujOSa9n/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYCB//EACoQAAICAQMFAAECBwAAAAAAAAECAxEEAAUSBhMhMUFhInEyUVKBgpGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEA//EAB0RAQACAwADAQAAAAAAAAAAAAEAAgMRIRIiMUH/2gAMAwEAAhEDEQA/AO5ZWeoyJ0kyHjdXZSA59fCAPvr/ALofL3RsPgcvdZEElmJEBeSQD2Qo9D5ZIGtZyI+8ZXefhCju8j/0ootj/oHUbuWDk9V5kHaxuWUVDxQ0pTFxw3pr9+SCfpNgeBqZdSzHibi/AlBm9STS7cDgPvLRNKe7kRxqSFVWPFCpaiW4i603tW4Zk7bTK2X30ljjSWSMgo8lfrFfDfsePOgszpDf9siky8PeFymgj5hCGXlV2oWytUBQoX/MaH6Bz9yfqjGUQomFlyN3BKxBbivLxf8AEym6Jo0CpuvCjbfYpjs7TpKjeonnk3yCIXLNjzogH1uJNf3qtGdHzxSb1NCMmWBtzxESCSMm/AYnj4oOLBBP50/uGHmrus00EEt9zmjqL/Y6F3HpnLfnNgYTNCzdxsQntvE92WiY0KvzVgi/BrRsPEm+C9fG2Ozrf7LbIGXihZpdwjEEUgYq0aoXSq4s7GgbIPIV6/OuebCzZnVGBNGVPf3KXKQopUdoByWr4CKP+X51k7VvOZGcSbB3zJhL8zDmSgRFru2LGj58+b/bVL0/suVt2cksyGTLkIWSRFIjhjBvghPk2QLb7QA8aHbJyOFcFLewqa5P/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Pen to Ten</div>
-                                                <div class="unlocked">14 Feb 2026</div>
+                                                <div>Timer Tamer</div>
+                                                <div class="unlocked">16 Feb 2026</div>
                                             </div>
-                                            <div class="description">10 writing sessions down. The journey of a thousand words has begun!</div>
+                                            <div class="description">That’s 10 hours of steady focus. You’re clearly in this.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAAqEAACAgEDAwMCBwAAAAAAAAABAgMEBQARQQYSEyExcSLBFBUkUWGB4f/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAHBEAAgIDAQEAAAAAAAAAAAAAAgMAAQQRIRIy/9oADAMBAAIRAxEAPwDukzSyWpC1qdF8zIFRwBsN+OOPXU/dy1uskjG1KwU7DZ/f+9YdTX4KOQstOd2aRu1FHq3+fzqRyGWs25V8cUKQp7qzEsT8j0GqnFc6trHcTMhSuHepYxZu09XzNamVeR3E7HRWAzNm3drg2JSC4VkY7jbUJjMzPUndbNdTXc+jRNuV+Qftp50TmkyfUH4erWaKtXddnc7MzEnjjnUZiuVv2OtRA9TPi9zfrLGRXMnZmeXxujFPqHcpG++xHzpScdWoz07NiqbEsRJP6giORuCy9vH21XZ/DWbd6wRXlILlldRuNtCy4S09bwrUmVeD2k7HVXluWPgC1UJ4ymX6OuxGRNlpiq16NGmm2/gi3kc/t3Eeg+NE9G4L8o6jMsVhpILDp9DjdgwJ559zptVw9yvCsYqzHb1J7fc6PxePtrka7PXkVVcEkjYAaJ5LTq6IuXEKVh0an//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgUBBAYH/8QAJxAAAgIBBAEDBAMAAAAAAAAAAQIDBBEABRIhQQYUURMVMaEyYXH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAfEQACAgICAwEAAAAAAAAAAAABAwARAgQSMRMhQWH/2gAMAwEAAhEDEQA/AOxbpuFtdxsKliRVVyAFOABpau+zNYMIuylwcfy6z8aD1JeWnudnkpY82brwBrPNEZvbuiRwuiKvKOXBcjycDs6xsYcKoXNylBgNmpovv8/uRD7qzksUD98CwGSufnGmm17hbbca6vYkZWcAgnII1jZpZfZwQgxMleQSoqKxYkdkZ+Tk96eemry3N1gCrjEgP5z50Ut8l33E9IXXHqR6rrJPavMxIZWfBHnPjQ0dtisRcYppGpFRhc4dG8g+R8Y8abbxtlqa/YK15ipk5q6D+8gg6Vn03KbBnNW39Zuy4ZgxP+jvU9jXLiPyLXeFYkQt1q1q1WNY1P1WbC95J671X9L4HqGLgM8ivIjwQev0f1q6u1bpDMk1dLBdVKAThpFAOPx3nPQ86t7HtNmtcrZryBRJzd2XGSTkk6gjSyU3mT6Eu7cxzUcPpn//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Hooked In</div>
-                                                <div class="unlocked">13 Feb 2026</div>
+                                                <div>BuffPup</div>
+                                                <div class="unlocked">16 Feb 2026</div>
                                             </div>
-                                            <div class="description">25 fish in! Water’s your playground now.</div>
+                                            <div class="description">Got pet BuffPup!</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+13 others...</div>
+                                            <div class="description ellipsis">+15 others...</div>
                                         </div>
                                     </div>
                                 </div>
