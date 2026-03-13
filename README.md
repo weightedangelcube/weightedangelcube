@@ -6,7 +6,7 @@ cool things I've made:
 - [pomme](https://github.com/weightedangelcube/pomme-page): a rewrite of kikiklang's pomme-page using Astro, with a Todoist integration
 
 what I'm working on:
-- [cc](https://github.com/weightedangelcube/cc): the collab ✨
+- [cc](https://github.com/csomethingcollab/cc): the collab ✨
 - everest-fmod2: adding FMOD2 to Everest, for native ARM support
 
 <sub>profile picture by @Nlepubo via Picrew.</sub>
