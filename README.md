@@ -9,4 +9,6 @@ what I'm working on:
 - [cc](https://github.com/csomethingcollab/cc): the collab ✨
 - everest-fmod2: adding FMOD2 to Everest, for native ARM support
 
+public key: openpgp4fpr:BDAAE38FE1693BAE29871EB45EE035609EDD78F1
+
 <sub>profile picture by @Nlepubo via Picrew.</sub>
