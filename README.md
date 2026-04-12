@@ -11,4 +11,4 @@ what I'm working on:
 
 public key: `BDAAE38FE1693BAE29871EB45EE035609EDD78F1`
 
-<sub>profile picture by @Nlepubo via Picrew.</sub>
+<sub>profile picture by @Zr6Ov via Picrew.</sub>
