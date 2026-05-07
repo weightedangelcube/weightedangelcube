@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="424" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="417" class="">
     <defs>
         <style/>
     </defs>
@@ -55,7 +55,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            15 / 78 achievements unlocked
+                                            16 / 78 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAQL/xAArEAACAgIBAwMCBgMAAAAAAAABAgMEBRESAAYhFDFBUZETIiM1NmFxc4H/xAAZAQACAwEAAAAAAAAAAAAAAAAABAECBQf/xAAkEQABAwIGAgMAAAAAAAAAAAABAwQRAAIFEiExUWEiQRMysf/aAAwDAQACEQMRAD8Ai2HxeNXCV556sLExfiO7jZ+p6YOzuz4u7rfpsNi67T8XYLKAm+I2Rv230Jxn8dpHzpY43OgCdAgnwfB8D2PTz2nX7hkpWsLTu3qleKQTRegjVhZnYFVHNfJUgnfHlretb6sa6A7dpME07fjtg2A/UGToOpjcj3NIEGMqPkrCPRrLAgIUcBskHRP19wR9uuc7iMemItvHUijdIyysg0QR0zZXCWMRNVN6Ex2bAeYSRujwugATirr7spB5Dfj8vQfP/sl7/S3QNqdapIOGKqmQEecGBqNYjjgDqswsixYCm8jBUWBSSfjqh4LNZPs7CXaGVwxenaSPIUq9uxJC7MGZdwKoYBuTBzy4jxv36leJyWMkwdavZswrxjCujtxII6MQd2PWotRXKY65SO+CXlEphJ+UP1+3/eg1m4uVHbJJNA2XCBOozAx2QI5904Us7N31kcVhcqgxmLqK0EUzTDnFIR+pambS8zoeQeIO/ukdxyVzUzEVGx6ynHGRFbERiEw/pSTrX+SOhr5Tkk1Y5Kn6WZw0iowRJNeRyHljrz43rrctlKQwtuL18ViV0KqEAHv8AD46gUrhKSrVJUrKgWwfGRBMHv8AN6//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Cafekuro</div>
+                                                <div class="unlocked">7 May 2026</div>
+                                            </div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -69,18 +79,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwQH/8QALRAAAgEDAwIEBAcAAAAAAAAAAQIDBAURAAYSEyEUMUFRFXGRoSIjMjNhcvD/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBQb/xAAhEQABAwQCAwEAAAAAAAAAAAABAgMEAAURQRIhIjGhwf/aAAwDAQACEQMRAD8A4tZrVbhZKaaelhYmLqO7jJ9zrZHaqGSaKJbP+ZLIIkVoeJLE4AIOOOT5E4Hy1p2pTeOprHR4yJzGrf0H4m+yn66et2WuipvDvJTTrb6yrHxEQyFTInduPfsMn74/jTJrtLlcUQUtNMtpzxSTlIPvX7SRuLase1bzLaNw0Nvir4eJbpupDK36WA88HOPmO+NCL5aLetnqpIqWFHSMurIMEEabJCy3GrqUL9OaGVJWqyHldeBCvIO+TyKKGPf00r1q9Ow3SJP2Yg8cYPoAB2+QOdAqFpuCZjbkd9tJISSDgaG+vtX2iHrWGgAdo3WJSrr5qcf4Y9RotZ7Ve7pXRW+0yNUVE+VWFQ68hjJzh8Yx79tL9iu9AlopEkq4o3SMKyucEEaM2ncltoLpSVfjYWEEySFVkwSAwJH20+q21xrdMjoW5xKwkAeWNbwRU7pRXu0TVlpqDFDJFJwmhWQ8eanPfsc9x76FXGJ4dt1aSlTJ0XZyvlyJJOPro7uvdtqve5bnc46mGJKud5lRpASoJ8jpbvt3oHtFWkdXFI7xlVVDkknRVbES3wo63W1ALKCD5Z16HZ3X/9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>First Photo Taken</div>
-                                                <div class="unlocked">2 May 2026</div>
-                                            </div>
-                                            <div class="description">Took a photo with the camera for the first time</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+13 others...</div>
+                                            <div class="description ellipsis">+14 others...</div>
                                         </div>
                                     </div>
                                 </div>
