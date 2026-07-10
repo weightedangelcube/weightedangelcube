@@ -7,8 +7,8 @@ cool things I've made:
 
 what I'm working on:
 - **[rainwall](https://github.com/weightedangelcube/rainwall)**: a script to set your wallpaper based on the weather outside
-- **[p2:ce archipelago](https://github.com/weightedangelcube/p2ce-archipelago)**: an [Archipelago](https://archipelago.gg/) mod for [Portal 2: Community Edition](https://portal2communityedition.com/)
 - **[vencord listenbrainz rpc](https://github.com/Vendicated/Vencord/pull/4077)**: adding [ListenBrainz](https://listenbrainz.org/) "Now Listening" Rich Presence to [Vencord](https://vencord.dev/)
+- **[ruptured](https://github.com/weightedangelcube/ruptured)**: a (fake) API client for [Structured](https://structured.app/)
 
 public key: `BDAAE38FE1693BAE29871EB45EE035609EDD78F1`
 
